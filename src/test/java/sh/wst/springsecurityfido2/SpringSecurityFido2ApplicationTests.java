@@ -1,13 +1,15 @@
-package sh.wst.springsecurifyfido2;
+package sh.wst.springsecurityfido2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringSecurifyFido2ApplicationTests {
+class SpringSecurityFido2ApplicationTests {
 
     @Test
     void contextLoads() {
+
+
     }
 
 }
